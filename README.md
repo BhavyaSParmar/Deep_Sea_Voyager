@@ -1,5 +1,5 @@
 # Sea Voyager Analysis with Machine Learning
-
+ 
 ## Overview:
 This project performs an in-depth analysis of Titanic survival data, focusing on data preprocessing, exploratory data analysis (EDA), and machine learning models to predict survival outcomes.
  
